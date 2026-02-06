@@ -12,7 +12,7 @@ Superstore sales dataset with 5000+ rows and 15 columns.
 - Total Sales
 - Total Profit
 - Profit Margin %
-- Total Quantity
+
 
 ## Tools Used
 - Microsoft Excel (Web)
@@ -21,8 +21,8 @@ Superstore sales dataset with 5000+ rows and 15 columns.
 - Slicers
 
 ## Key Insights
-- Technology category has the highest sales.
-- West region contributes the most revenue.
+- Office Suppies category has the highest sales.
+- South region contributes the most revenue.
 - Profit margin varies across categories.
 
 ## Dashboard Preview
